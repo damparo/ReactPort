@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactPort/static/css/main.0f07de80.chunk.css",
+    "main.js": "/ReactPort/static/js/main.dae80ebf.chunk.js",
+    "main.js.map": "/ReactPort/static/js/main.dae80ebf.chunk.js.map",
+    "runtime-main.js": "/ReactPort/static/js/runtime-main.ebac4665.js",
+    "runtime-main.js.map": "/ReactPort/static/js/runtime-main.ebac4665.js.map",
+    "static/js/2.3325e777.chunk.js": "/ReactPort/static/js/2.3325e777.chunk.js",
+    "static/js/2.3325e777.chunk.js.map": "/ReactPort/static/js/2.3325e777.chunk.js.map",
+    "index.html": "/ReactPort/index.html",
+    "precache-manifest.da456259b9ae2c903461ec48f2c091fe.js": "/ReactPort/precache-manifest.da456259b9ae2c903461ec48f2c091fe.js",
+    "service-worker.js": "/ReactPort/service-worker.js",
+    "static/css/main.0f07de80.chunk.css.map": "/ReactPort/static/css/main.0f07de80.chunk.css.map",
+    "static/js/2.3325e777.chunk.js.LICENSE.txt": "/ReactPort/static/js/2.3325e777.chunk.js.LICENSE.txt",
+    "static/media/BulletJournal.JPG": "/ReactPort/static/media/BulletJournal.db0b3311.JPG",
+    "static/media/Fitness.JPG": "/ReactPort/static/media/Fitness.1f061730.JPG",
+    "static/media/IMG_8172.jpg": "/ReactPort/static/media/IMG_8172.f07a422d.jpg",
+    "static/media/PWgenerator.JPG": "/ReactPort/static/media/PWgenerator.f0dcc00f.JPG",
+    "static/media/Scheduler.JPG": "/ReactPort/static/media/Scheduler.ff956892.JPG",
+    "static/media/WeatherDash.JPG": "/ReactPort/static/media/WeatherDash.c8c732dc.JPG",
+    "static/media/mood.JPG": "/ReactPort/static/media/mood.bbb87b5c.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebac4665.js",
+    "static/js/2.3325e777.chunk.js",
+    "static/css/main.0f07de80.chunk.css",
+    "static/js/main.dae80ebf.chunk.js"
+  ]
+}
