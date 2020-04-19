@@ -1,0 +1,80 @@
+nav {
+    background-color: rgb(3, 3, 3);
+}
+body {
+    /* background-color: rgb(192, 85, 85); */
+}
+.container {
+    width: 80%;
+    /* background-color: white; */
+}
+#welcome {
+    margin-top: 50px;
+}
+.circle {
+    /* border-radius: 50%; */
+    width:100px;
+    /* float: left; */
+    height: 300px;
+    width: 300px;
+    margin-right:auto;
+    text-align: center;
+  }
+
+
+#hello {
+    /* background-color:tomato; */
+    padding-left: 0px;
+    text-align: left;
+    margin: auto;
+}
+
+#bio {
+    margin-top: 50px;
+    /* border-style: solid;
+    border-color: blueviolet; */
+
+}
+.textJustify {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#socialMedia {
+    margin-top: 150px;
+}
+
+.fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: auto;
+    padding-left: 0;
+    color: black;
+    
+  }
+  .far {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: auto;
+    padding-left: 0;
+    padding-right: 0;
+    color: black;
+  }
+
+.fa-github {
+    padding-right: 0;
+}  
+.fa-linkedin-in {
+    padding-right: 0;
+} 
+
+.col-3 {
+    align-content: center;
+    text-align: center;
+}
